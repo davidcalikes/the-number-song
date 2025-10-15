@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: linear-gradient(#0c2d6c, #0c2d6c, #081D46, #081D46, #0c2d6c);
     font-family: Arial, sans-serif;
 }
 
@@ -14,9 +15,6 @@ h1 {
     margin: 0 auto;
     padding: 20px;
     padding-bottom: 2px ;
-    background: linear-gradient(to bottom, #80c7f0, #ffffff, #ffffff, #ffffff, #ffffff);
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
@@ -29,6 +27,5 @@ h1 {
     width: 75px;
     height: 75px;
     margin: 0.5rem;
-    margin-bottom: -0.6rem;
 }
 
